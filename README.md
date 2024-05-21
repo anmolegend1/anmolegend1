@@ -12,16 +12,16 @@
 
 
 ### THINGS I LOVE 💖  
-- PYTHON  🐍  
+- JAVASCRIPT 
   
 
--  
+-  FRONT END WEB DESIGNING
   
 
-- MACHINE LEARNING 🤖  
+- C/C++
   
 
-- DATA SCIENCE 🤯  
+- PROBLEM SOLVING  
   
 - BODY BUILDING 💪
 <br/>  
